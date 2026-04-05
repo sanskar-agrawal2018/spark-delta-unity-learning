@@ -1,0 +1,5 @@
+package scalaLearning
+
+class Device {
+
+}
