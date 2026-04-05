@@ -53,7 +53,6 @@ object Main {
       .format("console")
       .start()
 
-
     df_write.awaitTermination()
   }
 }
